@@ -6,8 +6,6 @@
 
 - `git tag -a [name]` to add a tag for the version to help communicate with your team
 
-- `git bad` to see different versions
-
 - `git log --oneline` - see your logs on oneline
 
 - `git revert HEAD` - take back the last action you submitted to git
